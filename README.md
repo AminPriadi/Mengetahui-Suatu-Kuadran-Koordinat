@@ -1,0 +1,1 @@
+# Mengetahui-Suatu-Kuadran-Koordinat
