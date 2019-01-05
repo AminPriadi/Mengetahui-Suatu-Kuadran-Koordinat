@@ -1,4 +1,4 @@
-# Mengetahui-Suatu-Kuadran-Koordinat
+# Mengetahui-Kuadran-Suatu-Koordinat
     #include<iostream>
     #include<conio.h>
     using namespace std;
